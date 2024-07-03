@@ -1,7 +1,11 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Antonio&fontSize=70&fontColor=ffffff" alt="Header" />
+</p>
 
-<!--
-**antonioPinar/antonioPinar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Space_Invaders_playing_field.svg" alt="Arcade Image" />
+</p>
+
 
 Here are some ideas to get you started:
 
