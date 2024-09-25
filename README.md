@@ -2,14 +2,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 Nombre-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Antonio.pngzz</h1></summary>
-  </ul>
-</div>
-
 <div style="position: relative; width: 100%; text-align: center;">
-  <img src="https://png.pngtree.com/thumb_back/fh260/background/20201009/pngtree-white-cloud-and-grey-sky-wallpaper-image_404274.jpg" style="width: 100%; height: auto;" />
+  <img src="https://github.com/antonioPinar/BPPRec/blob/main/fondoEucalipto.jpg?raw=true" style="width: 100%; height: auto;" />
 </div>
 
 ###
@@ -28,6 +22,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
 </div>
+
+###
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
